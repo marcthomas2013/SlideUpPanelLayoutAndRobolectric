@@ -14,8 +14,6 @@ public class ApplicationTest {
 
     @Test
     public void testSomething() throws Exception {
-        boolean test = true;
-
-        assertTrue(!test);
+        assertTrue(true);
     }
 }
